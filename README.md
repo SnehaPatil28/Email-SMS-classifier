@@ -17,8 +17,8 @@ A Machine Learning project that classifies text messages as **Spam** or **Not Sp
 
 ## 📂 Project Structure
 spam-classifier-ml/
-│── app.py                     # Streamlit app
-│── spam_classifier.ipynb      # Jupyter Notebook (training & evaluation)
+│── spam_classifier.py                     # Streamlit app
+│── sms_spam-classifier.ipynb      # Jupyter Notebook (training & evaluation)
 │── model.pkl                  # Trained ML model
 │── vectorizer.pkl             # Saved TF-IDF vectorizer
 │── requirements.txt           # Dependencies
